@@ -1,10 +1,7 @@
 ﻿#include <iostream>
-#include <string>
 
 int main()
 {
-    std::string name;
-    std::cout << "Enter your name\n";
-    std::cin >> name;
-    std::cout << "Hello, " << name << "!";
+    std::cout << "Hello, World!!";
 }
+//https://github.com/derevo0000/test_for_INGI
